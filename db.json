@@ -1,0 +1,32 @@
+{
+  "foods": [
+    {
+      "id": 0,
+      "name": "Tofu",
+      "category": "legumes",
+      "energy": "70",
+      "carbohydrates": "1.5",
+      "fat": "3.5",
+      "proteins": "8"
+    },
+    {
+      "name": "Chickpeas",
+      "category": "legumes",
+      "energy": "164",
+      "proteins": "8.86",
+      "carbohydrates": "27.42",
+      "fat": "2.59",
+      "ethanol": "0",
+      "id": 1
+    },
+    {
+      "name": "Cauliflower",
+      "category": "vegetables",
+      "energy": "25",
+      "carbohydrates": "5",
+      "fat": "0.3",
+      "proteins": "1.9",
+      "id": 2
+    }
+  ]
+}

@@ -12,3 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+/* TODO c'est pas ouf... */
+.my-border-search-bar {
+  border: 1px solid #999;
+  border-radius: 15px;
+  margin-top:10px;
+}
